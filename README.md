@@ -23,11 +23,15 @@
 <div> 
   <a href="https://www.instagram.com/caio0liveir/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-oliveira-bab008237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaioOliveiraa&repo=github-readme-stats)](https://github.com/CaioOliveiraa/calculadora-telecom)
-
-  
 </div>
+<br/>
+<div>
+<h1>Popular repositories</h1>
+
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=CaioOliveiraa&repo=calculadora-telecom&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/CaioOliveiraa/calculadora-telecom)
+<div>
+  
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
