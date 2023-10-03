@@ -24,14 +24,20 @@
   <a href="https://www.instagram.com/caio0liveir/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-oliveira-bab008237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<br/>
-<div>
-<h1>Popular repositories</h1>
 
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=CaioOliveiraa&repo=calculadora-telecom&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/CaioOliveiraa/calculadora-telecom)
+<br/>
+
+<div>  
+<h3>Popular repositories</h3>
+
+[![readme-profile](https://github-readme-stats.vercel.app/api/pin/?username=CaioOliveiraa&repo=CaioOliveiraa&border&theme=cobalt)](https://github.com/CaioOliveiraa/CaioOliveiraa)
+[![calc-telecom](https://github-readme-stats.vercel.app/api/pin/?username=CaioOliveiraa&repo=calculadora-telecom&border&theme=cobalt)](https://github.com/CaioOliveiraa/calculadora-telecom)
+
+<p align="left">
+  <a href="https://github.com/CaioOliveiraa?tab=repositories" target="_blank" ><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
 <div>
   
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
