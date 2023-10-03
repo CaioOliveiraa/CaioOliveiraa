@@ -1,9 +1,8 @@
 ### Hello World, I'm Caio Monteiro 👋
 ##
 <div>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CaioOliveiraa&theme=cobalt" />
-</a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioOliveiraa&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=CaioOliveiraa&theme=cobalt" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioOliveiraa&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
 </a>
 </div>
 
