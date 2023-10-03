@@ -3,6 +3,14 @@
 ##
 
 <div>
+  <h3>Sobre Mim...</h3>
+  <p> Hello, I'm 23 years old and currently in my eighth semester of Computer Engineering, with additional courses focused on Front-End development. I'm excited to kickstart my professional career in an internship role.
+      Throughout my academic journey, I've gained knowledge in areas such as programming, algorithms, and data structures. Moreover, I've dedicated efforts to enhance my Front-End skills through specialized courses, where I've achieved proficiency in HTML, CSS,          JavaScript, and popular frameworks like React.js.</p>
+</div>
+
+##
+
+<div>
   <a href="https://github.com/CaioOliveiraa">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=CaioOliveiraa&theme=cobalt" />
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioOliveiraa&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
