@@ -1,4 +1,6 @@
-### Hello World, I'm Caio Monteiro 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=5000&color=68d4a4&vCenter=true&width=1000&lines=Hello%2C+My+name+is+Caio+Oliveira+%F0%9F%98%83)](https://git.io/typing-svg)
+
+<!-- ### Hello World, I'm Caio Monteiro 👋 -->
 
 ##
 
