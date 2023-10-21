@@ -2,8 +2,6 @@
 
 <!-- ### Hello World, I'm Caio Monteiro 👋 -->
 
-##
-
 <div>
   <h3>About Me...</h3>
   <p>   Hello, I'm 23 years old and currently in my eighth semester of Computer Engineering, with additional courses focused on Front-End development. I'm excited to kickstart my professional career in an internship role.
