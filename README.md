@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=5000&color=2471e4&vCenter=true&width=1000&lines=Hello%2C+My+name+is+Caio+Oliveira+%F0%9F%98%83)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=5000&color=1051e8&vCenter=true&width=1000&lines=Hello%2C+My+name+is+Caio+Oliveira+%F0%9F%98%83)](https://git.io/typing-svg)
 
 <!-- ### Hello World, I'm Caio Monteiro 👋 -->
 
 <div>
-  <h3>About Me...<h3>
+  <h3>About Me...</h3>
   <p>   Hello, I'm 23 years old and currently in my eighth semester of Computer Engineering, with additional courses focused on Front-End development. I'm excited to kickstart my professional career in an internship role.
       Throughout my academic journey, I've gained knowledge in areas such as programming, algorithms, and data structures. Moreover, I've dedicated efforts to enhance my Front-End skills through specialized courses, where I've achieved proficiency in HTML, CSS,          JavaScript, and popular frameworks like React.js.</p>
 </div>
