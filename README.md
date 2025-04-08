@@ -1,26 +1,27 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=5000&color=ffffff&vCenter=true&width=600&lines=Hello%2C+My+name+is+Caio+Oliveira+%F0%9F%98%83)](https://git.io/typing-svg)
 
-<!-- ### Hello World, I'm Caio Monteiro 2c77e3 👋 -->
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=6434eb&reversal=false&section=header"/>
 
 
-<div>
-  <h3>About me...</h3>
-  <p>I have a degree in Computer Engineering with a strong focus on software development, and I am actively seeking a developer position. Throughout my studies, I have built a solid foundation in programming, algorithms, and data structures, specializing in both Frontend and Backend technologies, including React.js, TypeScript, Node.js, PostgreSQL, and MongoDB.
-
-In addition, I have extensive experience in Backend development with .NET 8 and SQL, focusing on building efficient and scalable REST APIs with seamless database integration.
-
-I am proactive, organized, and communicative, with a strong ability to collaborate in team environments, contribute effectively to projects, and quickly adapt to new technologies.</p>
-</div>
+<p align="center">
+    <!-- https://github.com/DenverCoder1/readme-typing-svg -->
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1000&color=6434eb&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%8C%8E+Eu+sou+Caio+Oliveira;bem-vindo+%C3%A0+minha+p%C3%A1gina+de+perfil+do+Github+%F0%9F%91%8B" />
+</p>
 
 ##
 
-<div>
-  <a href="https://github.com/CaioOliveiraa">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=CaioOliveiraa&theme=cobalt" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioOliveiraa&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
-</a>
-</div>
+<p align="center">
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=CaioOliveiraa&title_color=6434eb&text_color=826bc2&icon_color=6434eb&show_icons=true&hide_title=false&hide_border=true&theme=transparent&show=prs_merged&number_format=long&count_private=true&include_all_commits=true" alt="profile stats" title="profile stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioOliveiraa&title_color=6434eb&text_color=826bc2&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+    <img height="160" src="https://github-readme-streak-stats-ten-peach.vercel.app?user=CaioOliveiraa&stroke=6434eb&ring=6434eb&fire=6434eb&currStreakNum=6434eb&sideNums=6434eb&currStreakLabel=6434eb&sideLabels=6434eb&dates=826bc2&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="streak stats" title="streak stats" />
+</p>
+
+<p align="center">
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Snoopy1866&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
+</p>
+
 
 <div style="display: inline-block"><br>
   <img align="center" alt="icon-Ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
