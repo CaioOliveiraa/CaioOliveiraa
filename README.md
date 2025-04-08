@@ -21,7 +21,7 @@
 
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Snoopy1866&theme=github-compact&line=6434eb&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=CaioOliveiraa&theme=github-compact&line=6434eb&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
 </p>
 
 
