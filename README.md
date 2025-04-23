@@ -14,7 +14,7 @@
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=CaioOliveiraa&title_color=6434eb&text_color=826bc2&icon_color=6434eb&show_icons=true&hide_title=false&hide_border=true&theme=transparent&show=prs_merged&number_format=long&count_private=true&include_all_commits=false" alt="profile stats" title="profile stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=CaioOliveiraa&title_color=6434eb&text_color=826bc2&icon_color=6434eb&show_icons=true&hide_title=false&hide_border=true&theme=transparent&show=prs_merged&number_format=long&count_private=true&include_all_commits=true" alt="profile stats" title="profile stats">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioOliveiraa&title_color=6434eb&text_color=826bc2&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
     <img height="160" src="https://github-readme-streak-stats-ten-peach.vercel.app?user=CaioOliveiraa&stroke=6434eb&ring=6434eb&fire=6434eb&currStreakNum=6434eb&sideNums=6434eb&currStreakLabel=6434eb&sideLabels=6434eb&dates=826bc2&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="streak stats" title="streak stats" />
 </p>
