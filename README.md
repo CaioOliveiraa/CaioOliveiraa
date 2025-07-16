@@ -65,9 +65,7 @@
 
 
 <div align="center">
-  <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CaioOliveiraa}/count.svg" /></p> 
-  <br>
+  <img src="https://raw.githubusercontent.com/CaioOliveiraa/CaioOliveiraa/output/snake.svg" alt="Snake animation" />
 </div>
 
 
