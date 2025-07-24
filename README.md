@@ -9,16 +9,15 @@
 ##
 
 <div align="center">
-    <h3>🧑‍💻 Sobre mim </h3>
+  <h3>👨‍💻 Sobre mim</h3>
 </div>
 
-<div align="center">
-Sou desenvolvedor apaixonado por tecnologia, focado em back-end com .NET e C#, mas também com experiência no desenvolvimento fullstack. Gosto de construir APIs bem estruturadas, integrar sistemas e buscar sempre escrever um código limpo e reutilizável.  
-Trabalho com bancos de dados como PostgreSQL, MySQL e MongoDB, e me interesso por boas práticas, testes e organização de projetos.  
-Estou sempre aprendendo coisas novas — seja sobre arquitetura de software, deploy com Docker ou novas ferramentas do ecossistema web.
+Sou Caio, engenheiro da computação e desenvolvedor com foco em back-end, especialmente na stack .NET. Durante meu estágio, atuei no desenvolvimento de sistemas internos utilizando C#, ASP.NET, Entity Framework e Azure DevOps, aplicando conceitos de segurança e criptografia para proteger dados sensíveis.
 
-Busco oportunidades para evoluir como profissional, colaborar em times incríveis e entregar soluções que fazem a diferença. 🚀
-</div>
+Tenho domínio de APIs RESTful, versionamento com Git, bancos de dados relacionais e não relacionais (PostgreSQL, SQL Server, MySQL, MongoDB) e vivência com metodologias ágeis. Também desenvolvi projetos pessoais com .NET, ASP.NET, Docker e Azure, sempre buscando aprender com autonomia e entregar soluções bem estruturadas.
+
+Sou proativo, comunicativo e colaborativo, com facilidade para aprender novas tecnologias e contribuir com times técnicos. Busco oportunidades para crescer como desenvolvedor .NET e gerar valor real através da tecnologia.
+
 
 
 ##
