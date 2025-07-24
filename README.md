@@ -8,9 +8,13 @@
 
 ##
 
+<br>
+
 <div align="center">
-  <h3>👨‍💻 Sobre mim</h3>
+  <img src="https://img.shields.io/badge/👨‍💻 Sobre_mim-6434eb?style=for-the-badge&labelColor=ffffff&logoColor=black" />
 </div>
+
+<br>
 
 Sou Caio, engenheiro da computação e desenvolvedor com foco em back-end, especialmente na stack .NET. Durante meu estágio, atuei no desenvolvimento de sistemas internos utilizando C#, ASP.NET, Entity Framework e Azure DevOps, aplicando conceitos de segurança e criptografia para proteger dados sensíveis.
 
@@ -22,6 +26,7 @@ Sou proativo, comunicativo e colaborativo, com facilidade para aprender novas te
 
 ##
 
+<br>
 
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
